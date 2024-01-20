@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 459002343ecf53c4280e310f582a5b46, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 73383424000
+    m_Localized: ' Inspect items'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8715532906496
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9088523972608
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9200155373568
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9681548226560
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9807926800384
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73497782923264
+    m_Localized: Item Type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73646059958272
+    m_Localized: Item List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73808903811072
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74537303420928
+    m_Localized: Rotate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78237933645824
+    m_Localized: Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80189237112832
+    m_Localized: 'Damage:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80324637634560
+    m_Localized: 'Fire rate:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80439750307840
+    m_Localized: rps
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

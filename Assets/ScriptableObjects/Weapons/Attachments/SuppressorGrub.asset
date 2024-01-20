@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 473b85f2c801b18418f060e0f94d0d2d, type: 3}
+  m_Name: SuppressorGrub
+  m_EditorClassIdentifier: 
+  name: Grub Suppressor
+  icon: {fileID: 21300000, guid: 2108b20e7a03f194e8dafd6c46333fed, type: 3}
+  description: 
+  prefab: {fileID: 5642404767303816656, guid: 0deb7bc1520384444af9c4251cbd9481, type: 3}
+  attachmentType: 2
